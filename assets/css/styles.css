@@ -1,0 +1,31 @@
+.nav-img-brand {
+  height: 100px;
+}
+
+.footer-img {
+  width: 32px;
+  height: 32px;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.btn:hover {
+  color: var(--bs-primary);
+  background-color: var(--bs-secondary-bg);
+  border-color: var(--bs-btn-hover-border-color);
+}
+
+.dropdown-menu {
+  border-radius: .3rem;
+}
+
+.form-control {
+  border-radius: .3rem;
+}
+
+.page-link {
+  color: var(--bs-primary);
+}
+
