@@ -1,0 +1,1 @@
+<img src="<?php echo $assetPath; ?>img\login-img.png" alt="login picture" style="height: 350px;">
